@@ -23,6 +23,6 @@ def using_last(array)
 end
 
 def using_size(array)
- ["I", "am", "arrays!", "learning", "really", "wow"]
- array.sort
+ ["I", "like", "sugar", "way", "to", "much"]
+ array.size
 end
